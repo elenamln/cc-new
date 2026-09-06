@@ -315,7 +315,7 @@ You should receive:
   "token_type": "bearer"
 }
 ```
-![ID](images/week4_lab_2.png "ID")
+![login](images/week4_lab_2.png "login")
 
 > **Quick question**
 >
